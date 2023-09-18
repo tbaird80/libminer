@@ -17,7 +17,7 @@ Useful links:
 
 }
 \author{
-\strong{Maintainer}: TOmmy Baird \email{thomas.baird18@gmail.com}
+\strong{Maintainer}: Tommy Baird \email{thomas.baird18@gmail.com}
 
 }
 \keyword{internal}
